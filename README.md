@@ -63,7 +63,29 @@ Pärast saidile sisenemist suunatakse kasutaja lehele, kus ta saab lisada soovit
 
 ### Tulemuste vaade
 Pärast võistluse lõppu saab kasutaja näha kolme parima jooksja tulemusi ***ja ka nende võidetud medaleid.***
+**Tulemuste sorteerissüsteem:**
+```
+$TOPResults = array_slice($ResultArray, 0, 3);
+?>
+<div id="top-results">
+    <h2>Top 3 Tulemusi</h2>
+    <ul class="leaderboard">
+        <?php foreach ($TOPResults as $index => $result) : ?>
+            <li class="leaderboard-item">
+                <span class="rank"><?= $index + 1 ?></span>
+                <span class="medal"><?= ($index == 0) ? '🥇' : (($index == 1) ? '🥈' : '🥉') ?></span>
+                <span class="name"><?= $result['nimi'] . ' ' . $result['perenimi'] ?></span>
+                <span class="time"><?= $result['difference'] ?> sekundid</span>
+            </li>
+        <?php endforeach; ?>
+```
 
 ## Administratoori võimalused
 
+### Jooksja lisamine ja Tulemuste vaade
 
+### Muta jooksja
+
+### Võistluse alustamine
+
+### Võistluse lõputamine
