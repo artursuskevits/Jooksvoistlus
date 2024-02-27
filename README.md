@@ -1,10 +1,10 @@
-# Jooksvoistlus Read Me 
-***Sellel saidil viisin läbi jooksja võistluse simulatsiooni. Siin saab lisada ja eemaldada jooksjaid, samuti alustada ja lõpetada võistlust.***
+# Jooksvõistlus Read Me 
+***Sellel saidil viisin läbi jooksja võistluse simulatsiooni. Siin saab lisada ja eemaldada jooksjaid, samuti alustada ja lõpetada võistlust. Samuti veebileht näitab jooksjate parimat tulemused***
 
 ![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/3c7b76c2-eb5b-4ce5-9488-f8b557222363)
 
 
-**Kõik failis:**
+**Kõik failid kaustas Jooks2:**
 1. adminleht.php
 2. autasustamise.php
 3. conf.php
@@ -21,8 +21,37 @@
 14. registration.php
 15. start.php
 
-## Registreerimine
+## Veevileehe registreerimine
 Registreerimiseks oleme kirjutanud php-koodi, mis kontrollib, kas andmed *(sisselogimine ja parool)* on õigesti sisestatud. Vaikimisi antakse kõigile kasutajatele tavalise kasutaja roll. Andmebaasi abil on võimalik teha kasutajast administraator.
+
+## Sisse Logimine
+Logis kontrollime, kas andmebaasis on selliste andmetega kasutaja olemas ***ja suuname ta seejärel ümber saidile***
+
+## Kasutaja võimalused
+
+### Jooksja lisamine
+Pärast saidile sisenemist suunatakse kasutaja lehele, kus ta saab lisada soovitud jooksja, ***kui ta ei ole juba osalevate jooksjate nimekirjas.***
+![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/c666833a-9eef-4137-8add-78ef50255dae)
+### Tulemuste vaade
+Pärast võistluse lõppu saab kasutaja näha kolme parima jooksja tulemusi ***ja ka nende võidetud medaleid.***
+
+
+## Administratoori võimalused
+
+### 1. Jooksja lisamine ja Tulemuste vaade
+Administraator saab tulemusi vaadata ja lisada konkurente samamoodi ***nagu tavakasutaja.***
+![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/fa7e9e5b-4a62-4c26-9274-2aea5a058efb)
+
+### 2 .Jooksjate andmete muutamine
+Pärast veebilehele sisselogimist suunatakse administraator ***Amini paneelile***, kus ta saab muuta kõiki osaleja andmeid _(eesnimi, perekonnanimi, algus- ja lõpuaeg)._
+
+### 3. Võistluse alustamine
+Administraator saab määrata kõigile osalejatele algusaeg **leheküljel "Start"***.  Samuti saab administraator sellel lehel kustutada osalejad, kes ei peaks võistlusel osalema.
+
+### 4. Võistluse lõputamine
+Pärast seda, kui jooksja on ületanud finišijoone ***leheküljel "Lõpp"***, saab administratsioon määrata jooksja lõpuaja
+
+## Kasut5aja välja logimine
 
 **See on Registreerimine kood :**
 ```
@@ -69,16 +98,6 @@ else
 ?>
 ```
 
-## Sisse Logida
-Logis kontrollime, kas andmebaasis on selliste andmetega kasutaja olemas ***ja suuname ta seejärel ümber saidile***
-
-## Kasutaja võimalused
-
-### Jooksja lisamine
-Pärast saidile sisenemist suunatakse kasutaja lehele, kus ta saab lisada soovitud jooksja, ***kui ta ei ole juba osalevate jooksjate nimekirjas.***
-![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/c666833a-9eef-4137-8add-78ef50255dae)
-### Tulemuste vaade
-Pärast võistluse lõppu saab kasutaja näha kolme parima jooksja tulemusi ***ja ka nende võidetud medaleid.***
 
 **Tulemuste sorteerissüsteem:**
 ```
@@ -96,18 +115,3 @@ $TOPResults = array_slice($ResultArray, 0, 3);
             </li>
         <?php endforeach; ?>
 ```
-
-## Administratoori võimalused
-
-### Jooksja lisamine ja Tulemuste vaade
-Administraator saab tulemusi vaadata ja lisada konkurente samamoodi ***nagu tavakasutaja.***
-![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/fa7e9e5b-4a62-4c26-9274-2aea5a058efb)
-
-### Muta jooksja
-Pärast veebilehele sisselogimist suunatakse administraator ***Amini paneelile***, kus ta saab muuta kõiki osaleja andmeid _(eesnimi, perekonnanimi, algus- ja lõpuaeg)._
-
-### Võistluse alustamine
-Administraator saab määrata kõigile osalejatele algusaeg **leheküljel "Start"***.  Samuti saab administraator sellel lehel kustutada osalejad, kes ei peaks võistlusel osalema.
-
-### Võistluse lõputamine
-Pärast seda, kui jooksja on ületanud finišijoone ***leheküljel "Lõpp"***, saab administratsioon määrata jooksja lõpuaja
