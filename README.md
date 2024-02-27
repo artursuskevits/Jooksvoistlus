@@ -76,10 +76,9 @@ Logis kontrollime, kas andmebaasis on selliste andmetega kasutaja olemas ***ja s
 
 ### Jooksja lisamine
 Pärast saidile sisenemist suunatakse kasutaja lehele, kus ta saab lisada soovitud jooksja, ***kui ta ei ole juba osalevate jooksjate nimekirjas.***
-
+![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/c666833a-9eef-4137-8add-78ef50255dae)
 ### Tulemuste vaade
 Pärast võistluse lõppu saab kasutaja näha kolme parima jooksja tulemusi ***ja ka nende võidetud medaleid.***
-![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/c666833a-9eef-4137-8add-78ef50255dae)
 
 **Tulemuste sorteerissüsteem:**
 ```
