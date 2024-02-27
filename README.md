@@ -56,8 +56,8 @@ else
 ## Sisse Logida
 Logis kontrollime, kas andmebaasis on selliste andmetega kasutaja olemas ***ja suuname ta seejärel ümber saidile***
 
-## Administratoori võimalused
-
 ## Kasutaja võimalused
+
+## Administratoori võimalused
 
 ### A third-level heading
