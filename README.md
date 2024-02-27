@@ -1,9 +1,5 @@
 # Jooksvoistlus Read Me 
-
-
- <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://marathon100-cdn.fra1.digitaloceanspaces.com/images/news/p/berliinipoolmaraton021-G9JQ8v8TU6zc7zQ5Yp3r7ETCaNbV4h43.jpg">
-</picture>
+***Sellel saidil viisin läbi jooksja võistluse simulatsiooni. Siin saab lisada ja eemaldada jooksjaid, samuti alustada ja lõpetada võistlust.***
 
 ![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/3c7b76c2-eb5b-4ce5-9488-f8b557222363)
 
@@ -83,6 +79,8 @@ Pärast saidile sisenemist suunatakse kasutaja lehele, kus ta saab lisada soovit
 
 ### Tulemuste vaade
 Pärast võistluse lõppu saab kasutaja näha kolme parima jooksja tulemusi ***ja ka nende võidetud medaleid.***
+![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/c666833a-9eef-4137-8add-78ef50255dae)
+
 **Tulemuste sorteerissüsteem:**
 ```
 $TOPResults = array_slice($ResultArray, 0, 3);
@@ -104,6 +102,7 @@ $TOPResults = array_slice($ResultArray, 0, 3);
 
 ### Jooksja lisamine ja Tulemuste vaade
 Administraator saab tulemusi vaadata ja lisada konkurente samamoodi ***nagu tavakasutaja.***
+![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/fa7e9e5b-4a62-4c26-9274-2aea5a058efb)
 
 ### Muta jooksja
 Pärast veebilehele sisselogimist suunatakse administraator ***Amini paneelile***, kus ta saab muuta kõiki osaleja andmeid _(eesnimi, perekonnanimi, algus- ja lõpuaeg)._
