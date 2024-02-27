@@ -6,7 +6,8 @@
 </picture>
 
 [Saidi link](https://artursuskevits22.thkit.ee/Jooks2/jooksmain.php)
-**Kõik failis: **
+
+**Kõik failis:**
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
