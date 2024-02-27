@@ -57,8 +57,12 @@ else
 Logis kontrollime, kas andmebaasis on selliste andmetega kasutaja olemas ***ja suuname ta seejärel ümber saidile***
 
 ## Kasutaja võimalused
+
 ### Jooksja lisamine
+Pärast saidile sisenemist suunatakse kasutaja lehele, kus ta saab lisada soovitud jooksja, ***kui ta ei ole juba osalevate jooksjate nimekirjas.***
+
 ### Tulemuste vaade
+Pärast võistluse lõppu saab kasutaja näha kolme parima jooksja tulemusi ***ja ka nende võidetud medaleid.***
 
 ## Administratoori võimalused
 
