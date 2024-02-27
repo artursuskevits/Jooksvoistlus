@@ -5,7 +5,8 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://marathon100-cdn.fra1.digitaloceanspaces.com/images/news/p/berliinipoolmaraton021-G9JQ8v8TU6zc7zQ5Yp3r7ETCaNbV4h43.jpg">
 </picture>
 
-[Saidi link](https://artursuskevits22.thkit.ee/Jooks2/jooksmain.php)
+![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/3c7b76c2-eb5b-4ce5-9488-f8b557222363)
+
 
 **Kõik failis:**
 1. adminleht.php
