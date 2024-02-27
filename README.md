@@ -1,5 +1,5 @@
 # Jooksvõistlus Read Me 
-***Sellel saidil viisin läbi jooksja võistluse simulatsiooni. Siin saab lisada ja eemaldada jooksjaid, samuti alustada ja lõpetada võistlust. Samuti veebileht näitab jooksjate parimat tulemused***
+***Sellel saidil viisin läbi jooksja võistluse simulatsiooni. Siin saab lisada ja eemaldada jooksjaid, samuti alustada ja lõpetada võistlust. Samuti veebileht näitab jooksjate parimad tulemused***
 
 ![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/3c7b76c2-eb5b-4ce5-9488-f8b557222363)
 
@@ -51,7 +51,8 @@ Administraator saab määrata kõigile osalejatele algusaeg **leheküljel "Start
 ### 4. Võistluse lõputamine
 Pärast seda, kui jooksja on ületanud finišijoone ***leheküljel "Lõpp"***, saab administratsioon määrata jooksja lõpuaja
 
-## Kasut5aja välja logimine
+## Kasutaja välja logimine
+Kui kasutaja on teinud kõik, mida ta soovib teha, saab ta klõpsata väljumisnuppu või sulgeda brauseri vahekaardi.
 
 **See on Registreerimine kood :**
 ```
