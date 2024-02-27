@@ -86,7 +86,10 @@ $TOPResults = array_slice($ResultArray, 0, 3);
 Administraator saab tulemusi vaadata ja lisada konkurente samamoodi ***nagu tavakasutaja.***
 
 ### Muta jooksja
+Pärast veebilehele sisselogimist suunatakse administraator Amini paneelile, kus ta saab muuta kõiki osaleja andmeid (eesnimi, perekonnanimi, algus- ja lõpuaeg).
 
 ### Võistluse alustamine
+Administraator saab määrata kõigile osalejatele algusaeg leheküljel Start.  Samuti saab administraator sellel lehel kustutada osalejad, kes ei peaks võistlusel osalema.
 
 ### Võistluse lõputamine
+Pärast seda, kui jooksja on ületanud finišijoone leheküljel "Lõpp", saab administratsioon määrata jooksja lõpuaja
