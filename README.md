@@ -1,3 +1,3 @@
 # Jooksvoistlus Read Me 
-## A second-level heading
+## Registreerimine
 ### A third-level heading
