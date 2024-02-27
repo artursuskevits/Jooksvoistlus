@@ -1,8 +1,5 @@
 # Jooksvoistlus Read Me 
 
-**Saidi pilt: **
-
-	![Saidi pilt](/assets/images/pilt.png)
 
  <picture>
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://marathon100-cdn.fra1.digitaloceanspaces.com/images/news/p/berliinipoolmaraton021-G9JQ8v8TU6zc7zQ5Yp3r7ETCaNbV4h43.jpg">
