@@ -8,12 +8,21 @@
 [Saidi link](https://artursuskevits22.thkit.ee/Jooks2/jooksmain.php)
 
 **Kõik failis:**
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
-4.
-5.
-6.
+1. adminleht.php
+2. autasustamise.php
+3. conf.php
+4. fromsstyle.css
+5. jookja.css
+6. jookjaScript.js
+7. jooks.html
+8. jooksjad.jpg
+9. jooksmain.php
+10. login.php
+11. logo.png
+12. logout.php
+13. lopp.php
+14. registration.php
+15. start.php
 
 ## Registreerimine
 Registreerimiseks oleme kirjutanud php-koodi, mis kontrollib, kas andmed *(sisselogimine ja parool)* on õigesti sisestatud. Vaikimisi antakse kõigile kasutajatele tavalise kasutaja roll. Andmebaasi abil on võimalik teha kasutajast administraator.
