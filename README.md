@@ -23,7 +23,12 @@
 
 ## Veevileehe registreerimine
 Registreerimiseks oleme kirjutanud php-koodi, mis kontrollib, kas andmed *(sisselogimine ja parool)* on õigesti sisestatud. Vaikimisi antakse kõigile kasutajatele tavalise kasutaja roll. Andmebaasi abil on võimalik teha kasutajast administraator.
+User andmebbas
 
+| ID   | Login  | Password | Onadmin |
+|------|--------|----------|---------|
+| 1    | admin  | suj1C.M4CUtNI  | 1   |
+| 2    | lala | suql11CWUmR | 0 |
 ## Sisse Logimine
 Logis kontrollime, kas andmebaasis on selliste andmetega kasutaja olemas ***ja suuname ta seejärel ümber saidile***
 
