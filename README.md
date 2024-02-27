@@ -53,6 +53,7 @@ Pärast seda, kui jooksja on ületanud finišijoone ***leheküljel "Lõpp"***, s
 
 ## Kasutaja välja logimine
 Kui kasutaja on teinud kõik, mida ta soovib teha, saab ta klõpsata väljumisnuppu või sulgeda brauseri vahekaardi.
+![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/a8074cae-3941-470b-a74a-5e9131ee12b8)
 
 **See on Registreerimine kood :**
 ```
