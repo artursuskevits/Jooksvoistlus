@@ -83,6 +83,7 @@ $TOPResults = array_slice($ResultArray, 0, 3);
 ## Administratoori võimalused
 
 ### Jooksja lisamine ja Tulemuste vaade
+Administraator saab tulemusi vaadata ja lisada konkurente samamoodi ***nagu tavakasutaja.***
 
 ### Muta jooksja
 
