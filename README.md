@@ -40,7 +40,6 @@ Pärast võistluse lõppu saab kasutaja näha kolme parima jooksja tulemusi ***j
 
 ### 1. Jooksja lisamine ja Tulemuste vaade
 Administraator saab tulemusi vaadata ja lisada konkurente samamoodi ***nagu tavakasutaja.***
-![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/fa7e9e5b-4a62-4c26-9274-2aea5a058efb)
 
 ### 2 .Jooksjate andmete muutamine
 Pärast veebilehele sisselogimist suunatakse administraator ***Amini paneelile***, kus ta saab muuta kõiki osaleja andmeid _(eesnimi, perekonnanimi, algus- ja lõpuaeg)._
