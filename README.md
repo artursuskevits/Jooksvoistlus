@@ -1,12 +1,11 @@
 # Jooksvõistlus Read Me 
 ## Sisukord
-1. [Projekti kohta](https://github.com/AntonBuivol/Arvutid?tab=readme-ov-file#projekti-kohta)
-2. [Registreerimine](https://github.com/AntonBuivol/Arvutid/blob/main/README.md#registreerimine)
-3. [Logi sisse](https://github.com/AntonBuivol/Arvutid/blob/main/README.md#logi-sisse)
-4. [Lehed](https://github.com/AntonBuivol/Arvutid/blob/main/README.md#lehed)
-   - [Kasutaja leht](https://github.com/AntonBuivol/Arvutid/blob/main/README.md#kasutaja-leht)
-   - [Admini leht](https://github.com/AntonBuivol/Arvutid/blob/main/README.md#admini-leht)
+1. [Veebileehe registreerimine]((https://github.com/artursuskevits/Jooksvoistlus?tab=readme-ov-file#veevileehe-registreerimine))
+2. [Sisse logimine](https://github.com/artursuskevits/Jooksvoistlus?tab=readme-ov-file#sisse-logimine)
+3. [Kasutaja võimalused](https://github.com/artursuskevits/Jooksvoistlus?tab=readme-ov-file#kasutaja-v%C3%B5imalused)
+4. [Administratori võimalused](https://github.com/artursuskevits/Jooksvoistlus?tab=readme-ov-file#administratoori-v%C3%B5imalused)
 5. [Link](https://github.com/AntonBuivol/Arvutid/blob/main/README.md#link)
+6. 
 ***Sellel saidil viisin läbi jooksja võistluse simulatsiooni. Siin saab lisada ja eemaldada jooksjaid, samuti alustada ja lõpetada võistlust. Samuti veebileht näitab jooksjate parimad tulemused***
 
 ![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/3c7b76c2-eb5b-4ce5-9488-f8b557222363)
@@ -29,7 +28,7 @@
 14. registration.php
 15. start.php
 
-## Veevileehe registreerimine
+## Veebileehe registreerimine
 Registreerimiseks oleme kirjutanud php-koodi, mis kontrollib, kas andmed *(sisselogimine ja parool)* on õigesti sisestatud. Vaikimisi antakse kõigile kasutajatele tavalise kasutaja roll. Andmebaasi abil on võimalik teha kasutajast administraator.
 
 **User andmebbas:**
