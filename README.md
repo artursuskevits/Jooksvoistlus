@@ -5,6 +5,7 @@
 3. [Kasutaja võimalused](https://github.com/artursuskevits/Jooksvoistlus?tab=readme-ov-file#kasutaja-v%C3%B5imalused)
 4. [Administratori võimalused](https://github.com/artursuskevits/Jooksvoistlus?tab=readme-ov-file#administratoori-v%C3%B5imalused)
 5. [Kasutaja välja logimine](https://github.com/artursuskevits/Jooksvoistlus?tab=readme-ov-file#kasutaja-v%C3%A4lja-logimine) 
+
 ***Sellel saidil viisin läbi jooksja võistluse simulatsiooni. Siin saab lisada ja eemaldada jooksjaid, samuti alustada ja lõpetada võistlust. Samuti veebileht näitab jooksjate parimad tulemused***
 
 ![pilt](https://github.com/artursuskevits/Jooksvoistlus/assets/120181393/3c7b76c2-eb5b-4ce5-9488-f8b557222363)
