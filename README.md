@@ -130,3 +130,9 @@ $TOPResults = array_slice($ResultArray, 0, 3);
             </li>
         <?php endforeach; ?>
 ```
+1. muuta päise värvi
+2. muuta pealkirja kirjastiili
+3. Lisage pealehele mõned venekeelsed kommentaarid
+4. Liigutage päise päis paremale
+5. Lisage saidi logo ja viige see paremale.
+6. Muutke põhiteksti suurus 12
