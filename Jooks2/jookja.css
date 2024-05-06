@@ -263,7 +263,7 @@ input {
 #logo {
     position: absolute;
     bottom: 91%; /* Adjust as needed */
-    right: 95%; /* Adjust as needed */
+    right: 0%; /* Adjust as needed */
 }
 
 #cursor{

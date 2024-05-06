@@ -88,7 +88,7 @@ if (isset($_SESSION["login"]) && isset($_SESSION["!login"]) && isset($_SESSION['
     <body>
     <header>
         <!-- Верхняя часть страницы с логотипом и ссылками для входа/выхода -->
-        <img src="logo.png" id="logo" alt="logo" width="100" height="100">
+        <img src="logan.png" id="logo" alt="logo" width="100" height="100">
         <?php
         if(isset($_SESSION['login'])){
             ?>

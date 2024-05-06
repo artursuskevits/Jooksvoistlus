@@ -101,7 +101,7 @@ function sortTable(columnIndex) {
 
 <body>
 <header>
-    <img src="logo.png" id="logo" alt="logo" width="100" height="100">
+    <img src="logan.png" id="logo" alt="logo" width="100" height="100">
     <?php
     if(isset($_SESSION['login'])){
         ?>
