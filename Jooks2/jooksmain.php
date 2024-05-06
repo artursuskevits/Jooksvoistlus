@@ -117,7 +117,7 @@
             <a href="start.php" id="lingid2">Start</a>
             <a href="lopp.php" id="lingid2">Lõpp</a>
             <?php }?>
-            <a href="autasustamise.php" id="lingid2">Autasustamise</a>
+            <a href="autasustamise.php" id="lingid2"><b>Autasustamise</b></a>
             <?php if (isAdmin()){?>
                 <a href="adminleht.php" id="lingid2">Halduspaneel</a>
             <?php }?>
