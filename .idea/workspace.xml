@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb86d3d3-9afa-4f12-b084-9a71553e2d69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jooks2/adminleht.php" beforeDir="false" afterPath="$PROJECT_DIR$/Jooks2/adminleht.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jooks2/autasustamise.php" beforeDir="false" afterPath="$PROJECT_DIR$/Jooks2/autasustamise.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jooks2/jookja.css" beforeDir="false" afterPath="$PROJECT_DIR$/Jooks2/jookja.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jooks2/jooksmain.php" beforeDir="false" afterPath="$PROJECT_DIR$/Jooks2/jooksmain.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jooks2/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Jooks2/logan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jooks2/lopp.php" beforeDir="false" afterPath="$PROJECT_DIR$/Jooks2/lopp.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jooks2/start.php" beforeDir="false" afterPath="$PROJECT_DIR$/Jooks2/start.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714976295461</updated>
       <workItem from="1714976296766" duration="4464000" />
-      <workItem from="1714981016185" duration="1061000" />
+      <workItem from="1714981016185" duration="1114000" />
     </task>
     <servers />
   </component>
