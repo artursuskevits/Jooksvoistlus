@@ -75,7 +75,7 @@
     <body>
     <header>
 
-        <img src="logo.png" id="logo" alt="logo" width="100" height="100">
+        <img src="logo2.png" id="logo" alt="logo" width="100" height="100">
         <?php
         if(isset($_SESSION['login'])){
             ?>
