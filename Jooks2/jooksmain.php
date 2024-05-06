@@ -12,7 +12,7 @@
         $yhendus->close();
         exit();
     }
-
+    //в этой функции происходит проверка на админа
     function isAdmin(){
         return isset($_SESSION['status']) && $_SESSION['status'];
     }
@@ -33,6 +33,7 @@
 
     </head>
     <script>
+        //сортировка таблицы
         function sortTable(columnIndex) {
             var table, rows, switching, i, x, y, shouldSwitch;
             table = document.querySelector("table");
@@ -136,7 +137,7 @@
 
     <div id="languageModal" class="modal">
         <div class="modal-content">
-            <span class="close" onclick="closeModal()">&times;</span>
+            <sspan class="close" onclick="closeModal()">&times;</sspan>
             <h2 id="Lisa_jooksja">Lisa jooksja</h2>
             <form action="  ?">
                 <label for="nimi">Nimi:</label>
